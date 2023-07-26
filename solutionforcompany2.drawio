@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T10:51:31.617Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3SbvSs_n72aMVTcaxkqe" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T13:37:05.166Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Gs7LKOE0CXgaOxcr5lso" version="21.6.5" type="github">
   <diagram name="Page-1" id="hlpe3HDvRwnY9zBwgGZH">
     <mxGraphModel dx="1937" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,6 +231,27 @@
         </mxCell>
         <mxCell id="5Q3nX3RN6myIEDCxwFRo-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;-Policies&lt;br&gt;-rabc&lt;br&gt;-budjet&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1079" y="700" width="90" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Q3nX3RN6myIEDCxwFRo-22" target="5Q3nX3RN6myIEDCxwFRo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="230" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-23" value="Cost Budget&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Budgets.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="246" width="45.32" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-24" value="Cost Management" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Management.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="87.80000000000001" y="246" width="40.2" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-25" value="Cost analysis&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Analysis.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="386" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-26" value="Cost Management&lt;br&gt;&amp;nbsp;and Billing" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Management_and_Billing.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="157.10000000000002" y="316" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Q3nX3RN6myIEDCxwFRo-27" value="Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410.67999999999995" width="45.32" height="45.32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
