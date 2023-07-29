@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T10:34:56.658Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K_1ZvBrJ5IPaY3b8EjfS" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T12:18:36.633Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0nM3aCAUHD4zw1vljq6L" version="21.6.5" type="github">
   <diagram name="Page-1" id="alPhshSXl5excG2jQ6qK">
-    <mxGraphModel dx="1434" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,23 +31,29 @@
         <mxCell id="oIyeds10D-Jy80htqhCC-24" value="Front-End Tier&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1100" y="90" width="96" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jGVcuTMuIBffWscYEj-w-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oIyeds10D-Jy80htqhCC-1" target="oIyeds10D-Jy80htqhCC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oIyeds10D-Jy80htqhCC-1" value="Application GW" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" parent="1" vertex="1">
-          <mxGeometry x="414" y="230" width="64" height="64" as="geometry" />
+          <mxGeometry x="414" y="210" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="oIyeds10D-Jy80htqhCC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oIyeds10D-Jy80htqhCC-2" target="oIyeds10D-Jy80htqhCC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oIyeds10D-Jy80htqhCC-2" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
-          <mxGeometry x="69" y="232" width="95.24" height="60" as="geometry" />
+          <mxGeometry x="69" y="212" width="95.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jGVcuTMuIBffWscYEj-w-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oIyeds10D-Jy80htqhCC-25" target="oIyeds10D-Jy80htqhCC-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oIyeds10D-Jy80htqhCC-25" value="Azure App Service&lt;br&gt;.NET web Application&lt;br&gt;&lt;br&gt;Managed service&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="593" y="236" width="64" height="64" as="geometry" />
+          <mxGeometry x="593" y="210" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="oIyeds10D-Jy80htqhCC-26" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
-          <mxGeometry x="843" y="246" width="50" height="46" as="geometry" />
+        <mxCell id="jGVcuTMuIBffWscYEj-w-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oIyeds10D-Jy80htqhCC-26" target="oIyeds10D-Jy80htqhCC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIyeds10D-Jy80htqhCC-26" value="Azure Function&lt;br&gt;Sends Email to customer&amp;nbsp;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
+          <mxGeometry x="843" y="219" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="jGVcuTMuIBffWscYEj-w-11" value="Replicate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oIyeds10D-Jy80htqhCC-27" target="jGVcuTMuIBffWscYEj-w-9">
           <mxGeometry relative="1" as="geometry" />
