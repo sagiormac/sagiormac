@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T16:27:32.462Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="06JHc7_ADk5KduIXvkys" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T16:31:48.636Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wkBiRCi1OXIJ3Dq1N-Ne" version="21.6.5" type="github">
   <diagram name="Page-1" id="alPhshSXl5excG2jQ6qK">
     <mxGraphModel dx="1615" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jGVcuTMuIBffWscYEj-w-149" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="690" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="jGVcuTMuIBffWscYEj-w-152" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1210" y="84.5" width="220" height="357" as="geometry" />
         </mxCell>
@@ -67,9 +70,6 @@
         <mxCell id="jGVcuTMuIBffWscYEj-w-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="jGVcuTMuIBffWscYEj-w-149" target="jGVcuTMuIBffWscYEj-w-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jGVcuTMuIBffWscYEj-w-149" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="30" width="690" height="430" as="geometry" />
-        </mxCell>
         <mxCell id="jGVcuTMuIBffWscYEj-w-150" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
           <mxGeometry x="949.75" y="423.5" width="50.25" height="30" as="geometry" />
         </mxCell>
@@ -106,6 +106,12 @@
         </mxCell>
         <mxCell id="jGVcuTMuIBffWscYEj-w-168" value="customer service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
           <mxGeometry x="725.28" y="133.5" width="39.43" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="jGVcuTMuIBffWscYEj-w-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGVcuTMuIBffWscYEj-w-178" target="oIyeds10D-Jy80htqhCC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGVcuTMuIBffWscYEj-w-178" value="Monitor the customer support&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="755" y="350" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
