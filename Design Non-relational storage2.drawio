@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T07:17:34.356Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QoF1UpLdUv921ArsGef-" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T07:48:13.548Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PhY2fZg6JgzG9Tf4OCtC" version="21.6.6" type="github">
   <diagram name="Page-1" id="Jbi7j0t8x7Vw2COSsVxz">
     <mxGraphModel dx="2736" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,9 @@
           <mxGeometry x="508" y="599" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="f-hZ5KkokM4YNig4iFGL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-hZ5KkokM4YNig4iFGL-8" target="f-hZ5KkokM4YNig4iFGL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-hZ5KkokM4YNig4iFGL-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-hZ5KkokM4YNig4iFGL-8" target="f-hZ5KkokM4YNig4iFGL-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f-hZ5KkokM4YNig4iFGL-8" value="Customers" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
@@ -94,7 +97,7 @@
         <mxCell id="f-hZ5KkokM4YNig4iFGL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-hZ5KkokM4YNig4iFGL-29" target="f-hZ5KkokM4YNig4iFGL-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f-hZ5KkokM4YNig4iFGL-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
+        <mxCell id="f-hZ5KkokM4YNig4iFGL-29" value="Application getaway" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="1">
           <mxGeometry x="-110" y="601" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="f-hZ5KkokM4YNig4iFGL-31" value="AZURE CLOUD" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -112,7 +115,7 @@
         <mxCell id="f-hZ5KkokM4YNig4iFGL-34" value="ON-PERMISE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="717" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f-hZ5KkokM4YNig4iFGL-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+        <mxCell id="f-hZ5KkokM4YNig4iFGL-35" value="?????&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="520" y="820" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="f-hZ5KkokM4YNig4iFGL-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
