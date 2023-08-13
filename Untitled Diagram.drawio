@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T16:33:13.388Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X0z5bk8itZAvUvX4Er0s" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T16:41:47.828Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OpIEOknzyI9zJZgv97_g" version="21.6.7" type="github">
   <diagram name="Page-1" id="tK2lgRRCttZ0sFsDsxY8">
-    <mxGraphModel dx="2927" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="238" y="410" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wLpp8G6lTlrsZRuB6SXd-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;" vertex="1" parent="1">
-          <mxGeometry x="680" y="91" width="56" height="68" as="geometry" />
+          <mxGeometry x="1075.5" width="56" height="68" as="geometry" />
         </mxCell>
         <mxCell id="wLpp8G6lTlrsZRuB6SXd-15" value="Single instance" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" vertex="1" parent="1">
           <mxGeometry x="399.69" y="415" width="40.63" height="40" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wLpp8G6lTlrsZRuB6SXd-26" value="Azure Entra" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="81" width="70" height="64" as="geometry" />
+          <mxGeometry x="-90" y="36" width="70" height="64" as="geometry" />
         </mxCell>
         <mxCell id="wLpp8G6lTlrsZRuB6SXd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wLpp8G6lTlrsZRuB6SXd-27" target="wLpp8G6lTlrsZRuB6SXd-2">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wLpp8G6lTlrsZRuB6SXd-34" value="Azure AD account&lt;br&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="30" y="109" width="50" height="50" as="geometry" />
+          <mxGeometry x="30" y="100" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wLpp8G6lTlrsZRuB6SXd-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
           <mxGeometry x="1070" y="600" width="67" height="40" as="geometry" />
@@ -112,8 +112,8 @@
             <mxPoint x="880" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wLpp8G6lTlrsZRuB6SXd-49" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
-          <mxGeometry x="785" y="415" width="50" height="50" as="geometry" />
+        <mxCell id="wLpp8G6lTlrsZRuB6SXd-49" value="firewall&lt;br&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
+          <mxGeometry x="840" y="160" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
