@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T16:35:30.159Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.9" etag="Es032rB4S0019DjVUTiy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T17:12:42.855Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GMsoSgpiaGw4x3xojdpj" version="21.6.9" type="github">
   <diagram name="Page-1" id="nzJCGUWCDOTPNn_VLASD">
-    <mxGraphModel>
+    <mxGraphModel dx="1184" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="495" y="80" width="235" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-2" target="-ijelq5iZvrbOqSiMDrO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-2" value="AAD&lt;br&gt;New Partners" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="241.61" y="93" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-5" target="-ijelq5iZvrbOqSiMDrO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-5" value="Invitation" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="427.57" y="116.75" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.028;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-6" target="-ijelq5iZvrbOqSiMDrO-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-6" value="New Users&lt;br&gt;who need&amp;nbsp;Corporate&amp;nbsp;roles&lt;br&gt;In Tailwind Trades" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="255.57999999999998" y="360" width="42.05" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-10" value="RBAC&amp;nbsp;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" vertex="1" parent="1">
+          <mxGeometry x="647.14" y="325" width="36.5" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.844;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-16" target="-ijelq5iZvrbOqSiMDrO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-16" target="-ijelq5iZvrbOqSiMDrO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-16" value="Azure active directory&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Segoe UI&amp;quot;, serif; color: rgb(34, 34, 34); text-align: right;&quot;&gt;Tailwind Traders&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="581.51" y="97" width="65.63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-32" value="Conditional Access" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Conditional_Access.svg;" vertex="1" parent="1">
+          <mxGeometry x="532.65" y="402.5" width="30.88" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-35" target="-ijelq5iZvrbOqSiMDrO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-35" value="Dynamic Group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="589.74" y="350" width="48.57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-1" value="AZURE AD B2B" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_AD_B2C.svg;" vertex="1" parent="1">
+          <mxGeometry x="414" y="40" width="57.14" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="521.03" y="530" width="42.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-42" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="595.03" y="530" width="42.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="671.03" y="530" width="42.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-46" target="-ijelq5iZvrbOqSiMDrO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-46" target="-ijelq5iZvrbOqSiMDrO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-ijelq5iZvrbOqSiMDrO-46" target="-ijelq5iZvrbOqSiMDrO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-46" value="New Users" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="594.2599999999999" y="440" width="42.05" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-56" value="Policy" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="1">
+          <mxGeometry x="548.6999999999998" y="326.5" width="32.81" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-ijelq5iZvrbOqSiMDrO-57" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mfa_token;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="471.14" y="350" width="38.97" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
