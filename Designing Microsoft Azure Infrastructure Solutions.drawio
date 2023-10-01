@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T15:48:23.385Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3llerNad8rBa-zuOQ4sY" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T17:05:40.195Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="38SWC1XFVvbTmjuV4KNS" version="21.7.4" type="github">
   <diagram name="Page-1" id="uX7iK6uK5vU3SJ1vi2Ko">
     <mxGraphModel dx="2577" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="200" y="952.19" width="56.00000000000001" height="68" as="geometry" />
         </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-28" value="Azure Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
-          <mxGeometry x="85.25" y="951.2" width="64" height="64" as="geometry" />
+          <mxGeometry x="72.88" y="954.19" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.853;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ncKiIjNfLW5vo9ADEmb6-10" target="uQ6KeucCvVsSUXezUilE-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -154,31 +154,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-119" value="Linux&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;New unified in house&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;hosted on linux" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" parent="1" vertex="1">
-          <mxGeometry x="360" y="330" width="68" height="68" as="geometry" />
+          <mxGeometry x="506" y="560" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uQ6KeucCvVsSUXezUilE-133" target="uQ6KeucCvVsSUXezUilE-140" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uQ6KeucCvVsSUXezUilE-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uQ6KeucCvVsSUXezUilE-133" target="uQ6KeucCvVsSUXezUilE-140" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uQ6KeucCvVsSUXezUilE-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uQ6KeucCvVsSUXezUilE-133" target="uQ6KeucCvVsSUXezUilE-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-133" value="Application Gateway" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" parent="1" vertex="1">
           <mxGeometry x="72.88" y="528" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="uQ6KeucCvVsSUXezUilE-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uQ6KeucCvVsSUXezUilE-138" target="uQ6KeucCvVsSUXezUilE-119" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uQ6KeucCvVsSUXezUilE-138" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;App Service&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/App_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="70.88" y="330" width="66" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uQ6KeucCvVsSUXezUilE-140" target="uQ6KeucCvVsSUXezUilE-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ncKiIjNfLW5vo9ADEmb6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQ6KeucCvVsSUXezUilE-140" target="uQ6KeucCvVsSUXezUilE-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uQ6KeucCvVsSUXezUilE-140" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;App Service - solution for the&amp;nbsp;&lt;br&gt;Project Management&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;Software in the cloud&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/App_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="181" y="585" width="64" height="64" as="geometry" />
+          <mxGeometry x="224" y="528" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ncKiIjNfLW5vo9ADEmb6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQ6KeucCvVsSUXezUilE-73" target="ncKiIjNfLW5vo9ADEmb6-2">
           <mxGeometry relative="1" as="geometry">
