@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T18:25:50.976Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uk0WzssH_DP7mHyTvD8o" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T18:32:45.935Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IiXkRtXIZ51cSZ8U3Yrr" version="22.1.11" type="github">
   <diagram name="Page-1" id="91qA87hdiszA3aOv8GyX">
-    <mxGraphModel dx="2927" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2223" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,16 +43,16 @@
         <mxCell id="9Iidg85aKy6UL-_RCno8-11" value="Subnet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9Iidg85aKy6UL-_RCno8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Iidg85aKy6UL-_RCno8-25" target="9Iidg85aKy6UL-_RCno8-19">
+        <mxCell id="9Iidg85aKy6UL-_RCno8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Iidg85aKy6UL-_RCno8-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415.4999999999998" y="22.999999999999773" as="sourcePoint" />
+            <mxPoint x="329" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Iidg85aKy6UL-_RCno8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Iidg85aKy6UL-_RCno8-19" target="9Iidg85aKy6UL-_RCno8-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9Iidg85aKy6UL-_RCno8-19" value="Firewall&lt;br&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
-          <mxGeometry x="304" y="230" width="50" height="50" as="geometry" />
+        <mxCell id="9Iidg85aKy6UL-_RCno8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9Iidg85aKy6UL-_RCno8-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304" y="255" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9Iidg85aKy6UL-_RCno8-26" value="Business analyst&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="304" y="23" width="60" height="30" as="geometry" />
@@ -179,9 +179,9 @@
         <mxCell id="9Iidg85aKy6UL-_RCno8-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.372;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Iidg85aKy6UL-_RCno8-90" target="9Iidg85aKy6UL-_RCno8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Iidg85aKy6UL-_RCno8-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Iidg85aKy6UL-_RCno8-105" target="9Iidg85aKy6UL-_RCno8-19">
+        <mxCell id="9Iidg85aKy6UL-_RCno8-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Iidg85aKy6UL-_RCno8-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="271.7777506510417" as="targetPoint" />
+            <mxPoint x="354" y="255" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="255" />
             </Array>
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="9Iidg85aKy6UL-_RCno8-126" value="My customers&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
           <mxGeometry x="75.5" y="60" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="9Iidg85aKy6UL-_RCno8-129" value="WAF" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
+          <mxGeometry x="296" y="230" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
